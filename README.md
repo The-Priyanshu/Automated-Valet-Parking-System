@@ -15,7 +15,7 @@ Female DC Power Jack ,
 5v 2Amp Power Adapter
 
 ## Sftware/Simulator Used
-ArduinoIDE
+ArduinoIDE and 
 Proteus 8 
 
 ## Process flow
