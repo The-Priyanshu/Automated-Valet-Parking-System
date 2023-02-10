@@ -7,14 +7,13 @@
 * Arduino Uno 
 * 20×4 LCD Display 
 * I2C LCD Module 
-* Male Header 
-* Female Header 
+* Male Header  
 * 7 IR Sensors 
 * 2 Mini Servo Motor SG-90 
 * Female DC Power Jack  
 
 ## Software/Simulator Used
-ArduinoIDE and 
-Proteus 8 
+* ArduinoIDE  
+* Proteus 8 
 
 ## Process flow
