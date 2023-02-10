@@ -14,7 +14,7 @@ Female Header ,
 Female DC Power Jack ,
 5v 2Amp Power Adapter
 
-## Sftware/Simulator Used
+## Software/Simulator Used
 ArduinoIDE and 
 Proteus 8 
 
