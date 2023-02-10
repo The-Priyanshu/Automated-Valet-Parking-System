@@ -1,6 +1,6 @@
 # Automated-valet-parking-system
 
-## Brif Description
+## Brief Description
  Nowadays, finding a parking is really a tough job and bit expensive too for an average earning person. So we have modified the existing model of automated parking system to make it cost effective. For making the implementation cost less , we have designed our parking model that will obviously make the parking charges less and will lead to the revolution in the parking world.
 
 ## Hardware used 
