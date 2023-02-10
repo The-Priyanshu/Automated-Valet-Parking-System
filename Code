@@ -1,4 +1,3 @@
-`#0d1117`
 #include <LiquidCrystal_I2C.h>
 
 #include <Servo.h> //includes the servo library
