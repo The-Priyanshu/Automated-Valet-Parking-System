@@ -21,3 +21,12 @@ We have divided our parking in two parts- Left part is a kind of individual park
 * Proteus 8 
 
 ## Process flow
+* Start the system by connecting to the power supply. 
+* Move the car inside the parking through main entrance .
+* First sensor at the entrance senses the car and opens the gate , the next sensor senses and closes the gate .
+ * Total number of slots decreases.
+* If car moves in left , sensor at each parking slot senses and update the slot from empty to fill on display. 
+* If car moves in right side , first sensor at subparking entrance senses and opens the gate and the slot in subparking area decreases.The next sensor senses the car     and closes the gate.
+* When avail in subparking area is 0 , the sensor after sensing displays no place on the screen 
+* When the total slot is 0 , and when car comes in front of the first sensor , it senses and displays "Sorry Parking Full" on the display. 
+* And then the car starts to come out and slot gets increses upto to its limit.
